@@ -1,6 +1,6 @@
 # setup
 
-download that library & unzip, add the `ledmap` folder to `dust/code`
+download that library & unzip, add the `ledmap` (make sure it is named "ledmap") folder to `dust/code`
 
 at the top of a script or anywhere outside of a `function`, add `lm = include 'ledmap/lib/ledmap' `
 
